@@ -4,7 +4,7 @@
 
 موقع عربي تفاعلي عن الأعداد الثنائية والذاكرة والهندسة والرسوم والضغط والأمن وبصمة الإصبع الافتراضية.
 
-الرابط المستهدف بعد تفعيل GitHub Pages: https://absaj1432-art.github.io/nawa/
+الرابط المستهدف بعد تفعيل GitHub Pages: https://c7p5.github.io/nawa/
 
 تفعيل الاستضافة: Settings → Pages → Deploy from a branch → main → /(root) → Save.
 
